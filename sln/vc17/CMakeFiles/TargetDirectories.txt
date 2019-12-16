@@ -1,0 +1,6 @@
+C:/Users/Lomre/Desktop/mp2-lab2-matrix/sln/vc17/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lomre/Desktop/mp2-lab2-matrix/sln/vc17/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Lomre/Desktop/mp2-lab2-matrix/sln/vc17/include/CMakeFiles/matrix.dir
+C:/Users/Lomre/Desktop/mp2-lab2-matrix/sln/vc17/samples/CMakeFiles/sample_matrix.dir
+C:/Users/Lomre/Desktop/mp2-lab2-matrix/sln/vc17/gtest/CMakeFiles/gtest.dir
+C:/Users/Lomre/Desktop/mp2-lab2-matrix/sln/vc17/test/CMakeFiles/test_matrix.dir

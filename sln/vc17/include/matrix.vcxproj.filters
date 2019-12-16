@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lomre\Desktop\mp2-lab2-matrix\include\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lomre\Desktop\mp2-lab2-matrix\include\utmatrix.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9DBC8C23-D42E-32B9-BF60-D4A6A5F5B02E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
