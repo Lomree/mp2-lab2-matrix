@@ -133,7 +133,7 @@ TEST(TMatrix, compare_matrix_with_itself_return_true)
 	EXPECT_EQ(1, m == m);
 }
 
-TEST(TMatrix, matrices_with_different_size_are_not_equal)
+TEST(fTMatrix, matrices_with_different_size_are_not_equal)
 {
 	TMatrix<int> m1(2);
 	TMatrix<int> m2(3);
